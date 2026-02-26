@@ -6,7 +6,7 @@ from graphics import VisualisationLine
 import constants
 
 EPOCHS = 150
-SEED = X
+SEED = 1
 
 
 class PolicyNetwork(nn.Module):
