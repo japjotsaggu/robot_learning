@@ -1,7 +1,3 @@
-###########################
-# DO NOT MODIFY THIS FILE #
-###########################
-
 # Imports from external libraries
 import numpy as np
 
