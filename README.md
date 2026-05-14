@@ -1,7 +1,8 @@
-# Robot Learning — Imitation Learning & Residual Reinforcement Learning
+# Robot Learning: Imitation Learning & Residual Reinforcement Learning
 
 A robot learning system that trains an agent to navigate a 2D terrain environment using three algorithms: **Behavioural Cloning**, **DAgger**, and **Residual Reinforcement Learning**. All three are implemented with a budget-aware training loop.
 
+Note: This is an extension of my coursework for the Robot Learning module (70067 | Faculty of Engineering) at Imperial College London. 
 
 ## The Task
 
